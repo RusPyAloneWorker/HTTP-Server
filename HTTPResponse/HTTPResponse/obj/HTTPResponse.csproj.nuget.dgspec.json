@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\HTTP-Server\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\HTTP-Server\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\HTTP-Server\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj",
         "projectName": "HTTPResponse",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\HTTP-Server\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\HTTPResponse\\HTTPResponse\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\HTTP-Server\\HTTPResponse\\HTTPResponse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L0v+T1tTgoGuBnB6prwX3gSrLEZWzi1w+uAwPJh+9VEY6Lft1tUwkfyLXLUlRulZGvktru1x+dr60qpEkvX4Hg==",
+  "dgSpecHash": "kUCyy4IAJzeNaPpZ+MW1nz+h7gLo1VSIthGQRXqIFgmGXidGRjQSnbOzxmvmLUsS9Uiew+wULtEPlDeiK6x0ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\HTTP-Server\\HTTPResponse\\HTTPResponse\\HTTPResponse.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
