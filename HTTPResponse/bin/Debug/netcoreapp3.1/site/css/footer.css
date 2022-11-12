@@ -1,0 +1,83 @@
+#footer_spacer
+{
+ 	background-color: #181A21; 
+ 	width: 100%;
+    height: 40px;
+}
+.footer
+{
+	background-color: #181A21;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 1;
+    padding: 0px 0 60px 0;
+    margin: 0;
+    text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    background: #171a21;
+}
+.footer-content
+{
+	width: 940px;
+    margin: 0px auto;
+    padding-top: 16px;
+}
+.line-above
+{
+	height: 8px;
+    border-top: 1px solid #363c44;
+}
+#footer_logo
+{
+	float: left;
+    padding-top: 2px;
+}
+#footer_logo_steam
+{
+	float: right;
+    padding-top: 2px;
+}
+#footer_text
+{
+	float: left;
+    margin-left: 12px;
+    color: #8F98A0;
+    font-size: 12px;
+    line-height: 16px;
+}
+#footer_text
+{
+	float: left;
+    margin-left: 12px;
+    color: #8F98A0;
+    font-size: 12px;
+    line-height: 16px;
+    text-decoration: none;
+}
+#footer_text a
+{
+	text-decoration: none;
+	color: #C6D4DF;
+}
+.valve_links
+{
+	width: 100%;
+	margin-top: 8px;
+    float: left;
+    font-family: "Motiva Sans", Sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+    color: #61686D;
+}
+.valve_links a
+{
+	color: #C6D4DF;
+	text-decoration: none;
+}
+.valve_links img 
+{
+	margin-right: 5px;
+	margin-top: 30px
+}

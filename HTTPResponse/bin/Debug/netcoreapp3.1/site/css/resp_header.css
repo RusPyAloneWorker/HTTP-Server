@@ -1,0 +1,28 @@
+.resp_header {
+    display: none;
+    background: #171a21;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 20;
+    box-shadow: 0 0 7px 0 rgb(0 0 0 / 75%);
+    overflow: hidden;
+    padding: 13px 8px;
+}
+.resp_menu_logo
+{
+    left: 8px;
+    position: absolute;
+    top: 9px;
+    cursor: pointer;
+    width: 36px;
+    height: 31px;
+}
+.resp_header .resp_header_logo a {
+    display: inline-block;
+}
+.resp_header .resp_header_logo img {
+    vertical-align: middle;
+}

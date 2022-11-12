@@ -1,0 +1,5 @@
+﻿{
+  "Path": "./site",
+  "Port": 7070,
+  "SqlConnection": "@\"Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ProjectORISDB;Integrated Security=True\""
+}

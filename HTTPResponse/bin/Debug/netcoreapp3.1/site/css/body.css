@@ -1,0 +1,279 @@
+.page-content
+{
+    color: #E9E9E9;
+    background-color: #181A21;
+    font-family: "Motiva Sans", Sans-serif;
+    font-weight: normal;
+	padding: 0px 8px;
+    width: 100%;
+    height: 100vh;
+    display: block;
+    margin: 0 auto;
+	background: radial-gradient(rgba(24, 26, 33, 0) 0%, #181A21 100%) fixed no-repeat, url(https://store.cloudflare.steamstatic.com/public/shared/images/joinsteam/new_login_bg_strong_mask.jpg) center top no-repeat, #181A21;
+}
+.login-wrapper
+{
+    padding-top: 80px;
+    padding-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.login
+{
+    position: relative;  
+}
+.login-content
+{
+    width: 100%;
+}
+.login-entry
+{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 8px 16px;
+    padding-bottom: 33px;
+}
+.login-entry2
+{
+    color: #fff;
+    font-size: 32px;
+    text-transform: uppercase;
+    letter-spacing: .055em;
+    font-weight: 200;
+}
+.form-container
+{
+    background-color: #181a21;
+    border-radius: 4px;
+    padding: 24px 32px;
+    flex: 1;
+    min-width: 636px;
+}
+.form-container-content
+{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.form-container-input, .form-container-qr
+{
+    flex: 1;
+    display: grid;
+    gap: 12px;
+    grid-template-columns: 1fr;
+} 
+.form-container-input-name, .form-container-input-password
+{
+    display: grid;
+    grid-template-areas:
+        "label hint"
+        "input input";
+    grid-template-columns: 1fr min-content;
+    gap: 2px;
+}
+.textname, .textname1
+{
+    font-size: 12px;
+    color: #afafaf;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+    user-select: none;
+}
+.form-container-input-name .textname, .form-container-qr-content .textname
+{
+    color: #1999ff;
+    font-weight: 500;
+    font-size: 12px;
+}
+.textinput
+{
+    border-radius: 2px;
+    color: #fff;
+    padding: 10px;
+    background-color: #32353c;
+    outline: none;
+    font-size: 15px;
+    grid-area: input;
+    border: 1px solid #32353c;
+}
+.checkbox
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+}
+.checkbox-box
+{
+    width: 14px;
+    height: 14px;
+    padding: 3px;
+    border-radius: 2px;
+    background-color: #32353c;
+    cursor: pointer;
+}
+.checkbox-text
+{
+    color: #afafaf;
+    font-size: 12px;
+    user-select: none;
+    padding-left: 6px;
+}
+.button-wrapper
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.form-button
+{
+    width: 270px;
+    position: relative;
+    background: linear-gradient(90deg, #06BFFF 0%, #2D73FF 100%);
+    border-radius: 2px;
+    border: none;
+    outline: none;
+    padding: 12px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: inherit;
+    text-align: center;
+    letter-spacing: .03em;
+    cursor: pointer;
+}
+.form-help
+{
+    margin-top: 30px;
+    text-align: center;
+    color: #afafaf;;
+    font-size: 12px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.form-container-qr
+{
+    flex: 0;
+    display: grid;
+    gap: 4px;
+    margin-left: 24px;
+}
+.form-container-qr-content
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 200px;
+}
+.form-container-qr-content .textname
+{
+    color: #1999ff;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 6px 0px;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+}
+.beta
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 0px;
+}
+.beta-text
+{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #afafaf;
+    margin: 8px;
+}
+.join-beta
+{
+    background-color: rgba(255,255,255,.1);
+    border-radius: 2px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    color: #fff;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.beta-already
+{
+        text-align: center;
+    text-decoration-line: underline;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #afafaf;
+    padding: 12px 0px;
+    cursor: pointer;
+}
+.page-bottom
+{
+    display: flex;
+    flex-direction: row;
+    padding-top: 48px;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    justify-content: center;
+    background-color: #181A21;
+}
+.subtext
+{
+    font-size: 14px;
+    color: #b8b6b4;
+}
+.login-bottom-link
+{
+    max-width: 60%;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.join_image, .smt, .login_bottom_row_item
+{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 200px;
+}
+.smt
+{
+    margin-top: 20px;
+}
+.smt-span
+{
+    padding: 0 15px;
+    font-size: 15px;
+    line-height: 30px;
+    border-radius: 2px;
+    display: block;
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.4);
+    border-radius: 2px;
+}
+.smt1
+{
+    text-decoration: none !important;
+    color: #fff !important;
+    background: transparent;
+        margin: 20px 0 10px 0;
+    display: block;
+    text-align: center;    
+}
+

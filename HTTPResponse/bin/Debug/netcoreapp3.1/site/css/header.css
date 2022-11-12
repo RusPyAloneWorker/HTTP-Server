@@ -1,0 +1,103 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+.header
+{
+	position: relative;
+	font-family: "Motiva Sans", Sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    width: auto;
+	background-color: #171a21;
+	height: 104px;	
+	padding-left: 16px;
+    padding-right: 16px;
+}
+.header-content
+{
+	width: 940px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+.logo
+{
+	float: left;
+	margin-top: 30px;
+	margin-right: 40px;
+}
+.nav
+{
+	position: absolute;
+	left: 200px;
+}
+.option
+{
+	position: relative;
+	float: left;
+	padding-top: 45px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+    line-height: 16px;
+    text-decoration: none;
+    line-height: 16px;
+    float: left;
+    font-size: 14px;
+    color: #b8b6b4;
+    text-transform: uppercase;
+}
+.buttons
+{
+	position: relative;
+	color: white;
+	float: right;
+	line-height: 21px;
+    color: #b8b6b4;
+    font-size: 11px;
+    z-index: 401;
+    line-height: 24px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 6px;
+}
+.button-download
+{
+    display: inline-block;
+    position: relative;
+    height: 21px;
+    line-height: 24px;
+    margin-right: 3px;
+    background-color: #5c7e10;
+    color: white;
+}
+.button-download-content
+{
+	background-color: #5c7e10;
+	display: inline-block;
+    padding-left: 35px;
+    padding-right: 9px;
+    background-position: 10px 5px;
+    background-image: url(https://store.cloudflare.steamstatic.com/public/shared/images/header/btn_header_installsteam_download.png?v=1);
+    background-repeat: no-repeat;
+    text-decoration: none;
+    color: #e5e4dc;
+    font-weight: normal;
+}
+.entry, .lang
+{
+    display: inline-block;
+    position: relative;
+    padding: 0 4px;
+}
+.lang
+{
+    padding-right: 18px;
+    background-image: url(https://store.cloudflare.steamstatic.com/public/shared/images/popups/btn_arrow_down_padded.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
