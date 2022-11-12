@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\bin\Debug\netcoreapp3.1\HTTPResponse.exe
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\bin\Debug\netcoreapp3.1\HTTPResponse.deps.json
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\bin\Debug\netcoreapp3.1\HTTPResponse.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\bin\Debug\netcoreapp3.1\HTTPResponse.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\bin\Debug\netcoreapp3.1\HTTPResponse.dll
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\bin\Debug\netcoreapp3.1\HTTPResponse.pdb
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\obj\Debug\netcoreapp3.1\HTTPResponse.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\obj\Debug\netcoreapp3.1\HTTPResponse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\obj\Debug\netcoreapp3.1\HTTPResponse.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\obj\Debug\netcoreapp3.1\HTTPResponse.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\obj\Debug\netcoreapp3.1\HTTPResponse.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\obj\Debug\netcoreapp3.1\HTTPResponse.dll
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\obj\Debug\netcoreapp3.1\HTTPResponse.pdb
+C:\Users\Lenovo\source\repos\HTTPResponse\HTTPResponse\obj\Debug\netcoreapp3.1\HTTPResponse.genruntimeconfig.cache
